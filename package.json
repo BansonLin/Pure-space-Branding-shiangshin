@@ -1,0 +1,9 @@
+{
+  "name": "shuangfu768-analysis",
+  "private": true,
+  "type": "module",
+  "description": "DWG extraction and proposal build scripts for the Shuangfu 768 residential project",
+  "dependencies": {
+    "@mlightcad/libredwg-web": "0.8.2"
+  }
+}

@@ -1,0 +1,14 @@
+[
+  {"name": "cover_elev",   "out": "elevation_pair.png",          "bbox": [83300, -105100, 92700, -98700],   "px": 2400, "sw": 5, "crop": [0, 180, 2400, 1634]},
+  {"name": "elev_S",       "out": "elevation_south.png",         "bbox": [49559, -137750, 55959, -130100],  "px": 2000, "sw": 4, "crop": [200, 380, 1500, 2290]},
+  {"name": "p100_4F",      "out": "plan_typical_furnished.png",  "bbox": [92780, -165550, 96780, -162050],  "px": 2600, "sw": 3, "crop": [250, 260, 2230, 1800]},
+  {"name": "p150_4F",      "out": "plan_typical_permit.png",     "bbox": [113900, -118150, 117000, -115650], "px": 2600, "sw": 3, "crop": [40, 40, 2560, 2097]},
+  {"name": "p100_1F",      "out": "plan_1F.png",                 "bbox": [60250, -165600, 66850, -160900],  "px": 2600, "sw": 4, "crop": [380, 150, 2600, 1720]},
+  {"name": "p100_B1",      "out": "plan_B1.png",                 "bbox": [49840, -165600, 56440, -160900],  "px": 2600, "sw": 4},
+  {"name": "p100_2F_full", "out": "plan_2F_furnished.png",       "bbox": [70660, -165600, 77260, -160900],  "px": 2600, "sw": 4},
+  {"name": "p100_R1",      "out": "plan_roof1_furnished.png",    "bbox": [134420, -165550, 138420, -162050], "px": 2600, "sw": 3, "crop": [250, 260, 2230, 1800]},
+  {"name": "p100_R2",      "out": "plan_roof2_furnished.png",    "bbox": [144830, -165550, 148830, -162050], "px": 2600, "sw": 3},
+  {"name": "site_green",   "out": "site_landscape.png",          "bbox": [94900, -106750, 102400, -102950], "px": 2400, "sw": 5},
+  {"name": "cad_layout",   "out": "cadastral_layout.png",        "bbox": [55600, -107650, 57550, -105350],  "px": 1600, "sw": 3},
+  {"name": "survey",       "out": "survey_context.png",          "bbox": [51850, -110850, 57550, -107800],  "px": 2400, "sw": 5}
+]
